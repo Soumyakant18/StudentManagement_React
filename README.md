@@ -6,6 +6,14 @@ This project implements a basic student management system using a modern web dev
 - **Backend:** Spring Boot for robust API development and database interaction.
 - **Database:** MySQL for efficient student data storage and retrieval.
 
+# Demo
+![Screenshot 2024-07-19 101313](https://github.com/user-attachments/assets/10be858d-38ed-4e59-a9c3-5655ef5c9cbb)
+
+![Screenshot 2024-07-19 101253](https://github.com/user-attachments/assets/1e2aec6d-6ba6-4583-8145-1722c9d6086c)
+
+
+
+
 **Features:**
 
 - **Student Management:**
@@ -26,7 +34,7 @@ This project implements a basic student management system using a modern web dev
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/student-management-system.git
+   git clone [https://github.com/](https://github.com/)<soumyakant18>/StudentManagement_React.git
 
 2. **Backend (Spring Boot):**
 
